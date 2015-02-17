@@ -1,0 +1,30 @@
+body {
+  background-image: url("../images/iamkheysi.48531.jpg");
+}
+.alldivs{
+  position: absolute;
+  border-radius: 30px;
+  width: 500px;
+  left: 450px;
+  text-align: center;
+  padding-top: 20px; ;
+  background-color: white;
+}
+#welcome {
+  border: 2px solid black;
+  height: 200px;
+  top: 30px;
+}
+#userInput {
+  border: 2px solid red;
+  height: 200px;
+  top: 280px;
+}
+#progress_bar {
+  border: 2px solid green;  
+  height: 100px;
+  top: 530px;
+}
+#textbox {
+}
+#submit {}
